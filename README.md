@@ -148,5 +148,4 @@ POST http://localhost:8081/payments
 
 ## Author
 
-**Aditya Yadav**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Aditya Yadav**
